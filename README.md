@@ -1,5 +1,5 @@
 # Spark_Movie-Data-Analysis
-Movie data analysis using Pyspark
+This project utilizes Google Dataproc as my Hadoop cluster to efficiently  store movie datasets in Hadoop. Through the use of PySpark, comprehensive data analysis was performed, resulting in the creation of DataFrames for all datasets. This setup enables efficient data processing and insightful analysis.
 
 ## Tasks
 
