@@ -27,4 +27,4 @@ Movie data analysis using Pyspark
 `Hive`
 `Gcloud Dataproc`
 `Gcloud CLI`
-`Pyspark'
+`Pyspark`
